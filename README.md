@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # How to go about it
 
 ### Set Up
@@ -13,11 +14,11 @@ or run "python3 start.py" for python 3 version
 Note that the application is running on port 8000.
 So you have to open "localhost:8000" on your browser to check its success
 
-# Initial Question
+## Initial Question
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# User Manager
+
+## User Manager
 
 This repository contains a simple demo API built with NodeJS.
 The API is used to manage users in a MongoDB database.
