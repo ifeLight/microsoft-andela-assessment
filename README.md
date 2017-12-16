@@ -1,3 +1,20 @@
+# How to go about it
+
+### Set Up
+Make sure Python is installed on your virtual Machine
+
+### Sarting the application
+Then on the working directory of the application
+Open the Terminal or the Command Prompt(CMD)
+Then run "python start.py" for python 2 version
+or run "python3 start.py" for python 3 version
+
+### Note
+Note that the application is running on port 8000.
+So you have to open "localhost:8000" on your browser to check its success
+
+# Initial Question
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # User Manager
@@ -113,3 +130,6 @@ password: janedoe
 
 ### Author
 **Olajide Bolaji 'Nuel** - Software Developer at Andela
+
+### Dockerised By
+**Karim Ifedayo 'ifeLight** - Andela/Microsoft Applicant
